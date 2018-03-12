@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Алена Бочкарева](https://up.htmlacademy.ru/htmlcss/20/user/442911).
-* Наставник: [Михаил Поданев](https://htmlacademy.ru/profile/mpodanev).
+* Наставник: [Михаил Поданев](https://htmlacademy.ru/profile/mpodanev)
 
 ---
 
